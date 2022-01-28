@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Enock Momanyi
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Angular and TypeScript
-- 💞️ I’m looking to collaborate on projects involving Python
+- 💞️ I’m looking to collaborate on projects involving Python and/or Front End development
 - 📫 How to reach me enockenm@gmail.com , <a href="https://www.twitter.com/onlyenock">Twitter</a> or <a href="https://t.me/onlyenock">Telegram</a>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enock-momanyi&langs_count=5&theme=tokyonight)]()
